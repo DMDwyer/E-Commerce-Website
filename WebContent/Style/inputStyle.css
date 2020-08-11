@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+input, textarea {
+   box-shadow: 0px 0px 3px #ccc, 0 10px 20px #eee inset;
+   padding:.5em;
+   border-radius: 5px;
+   input:required:invalid{border-color:red;}
+}
+
+
+
+li{
+	padding:.3em;
+}
+
+
+
+label{
+	display:inline-block;
+	width: 10em;
+}
+
+
+
+
+
